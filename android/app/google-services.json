@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269697955728",
+    "project_id": "form-cc482",
+    "storage_bucket": "form-cc482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269697955728:android:fdd6380c20936bfb682515",
+        "android_client_info": {
+          "package_name": "com.example.google_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269697955728-bmlo2qrhe70gti3fgm9ppkml5nb2mgre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYeckGxGrpn3j0D_iKYB4fzQLqwbeYLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269697955728-bmlo2qrhe70gti3fgm9ppkml5nb2mgre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
